@@ -10,7 +10,7 @@ The MERN stack is a popular JavaScript stack used for building modern web applic
 
 The repository includes the following assignments:
 
-1. **Assignment 1** - [Link or Description]
+1. **Assignment 1** - [(https://github.com/ItzAkashBro/Training-on-MERN-Stack-Development/tree/main/Assignment%201)]
 2. **Assignment 2** - [Link or Description]
 3. **Assignment 3** - [Link or Description]
 4. **Assignment 4** - [Link or Description]
